@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Istiak-Ahmed78
-- 🌱 I’m currently learning Flutter and dart
-- 💞️ I’m looking to collaborate on any flutter project
-- 📫 How to reach me Email: aistiak6@gmail.com
+- 👋 Hi, I’m @Istiak-Ahmed78(Istiak Ahmed)
+-  I’m currently learning Flutter and dart
+-  I’m looking to collaborate on any flutter project
+-  Reach me through Email: aistiak6@gmail.com, aistiak2078@gmail.com
