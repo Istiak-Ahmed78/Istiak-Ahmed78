@@ -1,6 +1,6 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-I'm Istiak Ahmed, a self-tought software developer. Working as a mobile apps developer at [Rexo IT](https://www.rexoit.com/) , Dhaka, Bangladesh. Working hard to be a software engineer. 
+I'm Istiak Ahmed, a self-tought software developer. Working as a mobile apps developer at [Rexo IT](https://www.rexoit.com/) , Dhaka, Bangladesh.
 
 <!--   ![GitHub followers](https://img.shields.io/github/followers/Istiak-Ahmed78?style=social)  ![Profile views](https://gpvc.arturio.dev/Istiak-Ahmed78) -->
 
