@@ -5,7 +5,7 @@ I'm Istiak Ahmed, a self-tought software developer. Working as a mobile apps dev
 <!--   ![GitHub followers](https://img.shields.io/github/followers/Istiak-Ahmed78?style=social)  ![Profile views](https://gpvc.arturio.dev/Istiak-Ahmed78) -->
 
 
-### Languages and tool
+### Languages and tools
 <code><img height="20" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></code>
 <code><img height="20" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png"></code>
