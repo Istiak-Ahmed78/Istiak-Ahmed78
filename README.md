@@ -19,9 +19,12 @@ I'm Istiak Ahmed, a self-tought software developer. Working as a mobile apps dev
 <!-- [![Isitak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiak-Ahmed78&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats?style=center) -->
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Istiak-Ahmed78&show_icons=true&theme=gotham" alt="abhisheknaiidu"  alt="Isitak" />
   
-  Mail me at  <a href="aistiak6@gmail.com">aistiak6@gmail.com</a> or <a href="aistiak2078@gmail.com">aistiak2078@gmail.com</a> 
+  
+  Find me on [Facebook](https://www.facebook.com/profile.php?id=100005350577614), [Linkdin](https://www.linkedin.com/in/istiak-ahmed-7112951a3/)
+  
+  Or you can mail me at  <a href="aistiak6@gmail.com">aistiak6@gmail.com</a>
 
 <!-- # Istiak Ahmed
 ### Flutter Developer, Student
-
-Find me on [Facebook](https://www.facebook.com/profile.php?id=100005350577614), [Linkdin](https://www.linkedin.com/in/istiak-ahmed-7112951a3/) -->
+-->
+ 
