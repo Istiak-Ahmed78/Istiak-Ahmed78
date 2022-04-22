@@ -7,7 +7,7 @@ I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps dev
 
 ### Languages and tools I know
 <code><img height="20" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></code>
-<code><img height="20" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></code>
+<code><img height="20" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png"></code>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak-Ahmed78&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
