@@ -1,4 +1,4 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30"> 
 
 I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps developer at [Rexo IT](https://www.rexoit.com/) , Dhaka, Bangladesh.
 
