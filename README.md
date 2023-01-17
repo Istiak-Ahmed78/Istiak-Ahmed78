@@ -23,14 +23,10 @@ I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps dev
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak-Ahmed78&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak-Ahmed78&layout=compact&theme=tokyonight">
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak-Ahmed78&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<h2 align="center">📈 My github stars </h2> 
-<!-- [![Isitak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiak-Ahmed78&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats?style=center) -->
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Istiak-Ahmed78&show_icons=true&theme=gotham" alt="abhisheknaiidu"  alt="Isitak" />
-  <br>  
+
+ 
   <h3 align="center">Find me on </h3> 
 
 <div id="badges" align="center">
