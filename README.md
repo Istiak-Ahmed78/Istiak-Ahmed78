@@ -7,9 +7,7 @@ I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps dev
 
 
 
-
-
-
+![c-program-icon]()
 
 <!--  ### Languages and tools I know  -->
 
@@ -17,7 +15,9 @@ I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps dev
 <p align="center"> 
 <code><img height="20" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg"></code>
 <code><img height="20" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/68919043/195761110-7ed070de-0eb4-45b6-bded-e82c7ddc7ca7.png"></code>
+ <code><img height="20" src="https://user-images.githubusercontent.com/68919043/217901984-77367d28-fd9e-4b6b-a0b4-f56e87ea56e7.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/68919043/217902989-e3e04a6e-e193-47e2-98dc-c54a9543946b.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/68919043/217903464-9f606a10-6325-4bab-b6f3-e40486e48371.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/68919043/195761323-dc96b0a1-8111-4277-b757-509966ea94a1.png"></code>
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/arduino-logo-1.png"></code>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiak-Ahmed78&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
