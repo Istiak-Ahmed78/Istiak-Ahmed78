@@ -7,7 +7,6 @@ I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps dev
 
 
 
-![c-program-icon]()
 
 <!--  ### Languages and tools I know  -->
 
