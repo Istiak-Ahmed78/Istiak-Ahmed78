@@ -24,7 +24,14 @@ I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps dev
   <br>
 
 
-<h4 align="center">Also love solvoing problems 😊</h3> 
+<h4 align="center">Also have the following passion</h4>
+<div align="center">
+   Machine learning,
+   Deep learning,
+ Problem solving
+ 
+</div>
+
  
   <h3 align="center">Find me on </h3> 
 
