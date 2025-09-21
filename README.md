@@ -1,7 +1,7 @@
 
  <h2 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30">  </h2> 
 
-I'm Istiak Ahmed, a self-tought software developer, working as a mobile apps developer at [Rexo IT](https://www.rexoit.com/) , Dhaka, Bangladesh.
+I'm Istiak Ahmed, a self-tought software developer, I love thinking different, solve problems
 
 <!--   ![GitHub followers](https://img.shields.io/github/followers/Istiak-Ahmed78?style=social)  ![Profile views](https://gpvc.arturio.dev/Istiak-Ahmed78) -->
 
