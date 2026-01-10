@@ -2,7 +2,7 @@
 
 # 💻 Mobashsherul Islam (Istiak)
 
-###  Flutter Developer |  Cross-Platform Mobile Expert | Open Source Contributor
+###  Flutter Developer |  AI/ML Enthusiast | Open Source Contributor
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Istiak--Ahmed78-181717?style=flat-square&logo=github)](https://github.com/Istiak-Ahmed78)
