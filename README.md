@@ -2,7 +2,7 @@
 
 # 💻 Mobashsherul Islam (Istiak)
 
-###  Flutter Developer |  AI/ML Enthusiast | Open Source Contributor
+### 📱 Flutter Developer | 🤖 AI/ML Enthusiast | 🌟 Open Source Contributor
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Istiak--Ahmed78-181717?style=flat-square&logo=github)](https://github.com/Istiak-Ahmed78)
@@ -17,7 +17,7 @@
 
 | 📱 Apps Deployed | 📦 Packages Published | ⭐ Flutter Contributor |
 |:---:|:---:|:---:|
-| **3** | **1** | **✓** |
+| **3** | **2** | **✓** |
 
 </div>
 
@@ -56,16 +56,20 @@
 
 </div>
 
-## 📦 Published Package
+---
+
+## 📦 Published Packages
 
 <div align="center">
 
-| Package | Description | Status |
-|:---:|:---|:---:|
-| **flutter_device_state** | Cross-platform security detection plugin for Android, iOS & macOS | ✅ [pub.dev](https://pub.dev/packages/flutter_device_state) • [GitHub](https://github.com/Istiak-Ahmed78/flutter_device_state) |
+| Package | Description | Downloads | Status |
+|:---:|:---|:---:|:---:|
+| **flutter_calendar_pro** | Production-ready calendar with 7 view modes, event management & resource scheduling | ![Pub Version](https://img.shields.io/pub/v/flutter_calendar_pro?color=blue) | ✅ [pub.dev](https://pub.dev/packages/flutter_calendar_pro) • [GitHub](https://github.com/Istiak-Ahmed78/flutter_calendar_pro) |
+| **flutter_device_state** | Cross-platform security detection plugin for Android, iOS & macOS | ![Pub Version](https://img.shields.io/pub/v/flutter_device_state?color=blue) | ✅ [pub.dev](https://pub.dev/packages/flutter_device_state) • [GitHub](https://github.com/Istiak-Ahmed78/flutter_device_state) |
 
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -125,6 +129,8 @@
 
 </details>
 
+---
+
 ### 🤖 AI & IoT Projects
 
 <details>
@@ -161,6 +167,8 @@
 
 </details>
 
+---
+
 ### 🛠️ Utility Apps
 
 <details>
@@ -190,6 +198,7 @@
 | Contribution | Description | Status |
 |:---:|:---|:---:|
 | **Flutter Framework** | Added `SliverAppBar` stretch property code example to official docs | ✅ [Merged](https://github.com/flutter/flutter/pull/125785) |
+| **flutter_calendar_pro** | Published comprehensive calendar package with 7 view modes | ✅ [Live](https://pub.dev/packages/flutter_calendar_pro) |
 | **flutter_device_state** | Published cross-platform security detection package | ✅ [Live](https://pub.dev/packages/flutter_device_state) |
 
 </div>
@@ -215,7 +224,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aistiak6@gmail.com)
-[![pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_device_state)
+[![pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/istiak.dev/packages)
 
 **📍 Location:** Dinajpur, Rangpur, Bangladesh  
 **📧 Email:** aistiak6@gmail.com  
@@ -228,5 +237,3 @@
 **💻 Coding in 8-bit • Building in High-Res 🚀**
 
 </div>
-
-
