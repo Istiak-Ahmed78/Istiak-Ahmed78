@@ -17,7 +17,7 @@
 
 | 📱 Apps Deployed | 📦 Packages Published | ⭐ Flutter Contributor |
 |:---:|:---:|:---:|
-| **3** | **2** | **✓** |
+| **2** | **2** | **✓** |
 
 </div>
 
