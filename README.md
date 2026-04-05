@@ -203,20 +203,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![Istiak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Istiak-Ahmed78&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Istiak-Ahmed78)
-
-
-</div>
-
----
-
-## 🌐 Let's Connect
 
 <div align="center">
 
