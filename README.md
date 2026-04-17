@@ -12,16 +12,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Istiak-Ahmed78&color=00D9FF&style=flat-square)
 
-
-### 🎯 Quick Stats
-
-| 📱 Apps Deployed | 📦 Packages Published | ⭐ Flutter Contributor |
-|:---:|:---:|:---:|
-| **2** | **2** | **✓** |
-
 </div>
 
----
 
 ## 🛠️ Tech Arsenal
 
@@ -197,6 +189,7 @@
 
 | Contribution | Description | Status |
 |:---:|:---|:---:|
+| **Flutter Framework** | Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626) | ✅ [Merged](https://github.com/flutter/flutter/pull/184643) |
 | **Flutter Framework** | Added `SliverAppBar` stretch property code example to official docs | ✅ [Merged](https://github.com/flutter/flutter/pull/125785) |
 | **flutter_calendar_pro** | Published comprehensive calendar package with 7 view modes | ✅ [Live](https://pub.dev/packages/flutter_calendar_pro) |
 | **flutter_device_state** | Published cross-platform security detection package | ✅ [Live](https://pub.dev/packages/flutter_device_state) |
