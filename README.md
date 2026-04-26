@@ -116,7 +116,7 @@ In addition, I have experience in Machine Learning, Deep Learning, Large Languag
   
 **Find me here**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mobashsherul-islam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aistiak6@gmail.com)
 
 **📍 Location:** Dinajpur, Rangpur, Bangladesh  
