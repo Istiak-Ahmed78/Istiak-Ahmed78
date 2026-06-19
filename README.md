@@ -33,7 +33,12 @@ In addition, I have experience in Machine Learning, Deep Learning, Large Languag
 
 ## 📌 Find my published live apps
 
- [RMSFlutter Customer App](https://apps.apple.com/us/app/unique-crepes-and-deli/id6751829325), [Gutenberg Ebook Reader](https://play.google.com/store/apps/details?id=com.gutenberg2.booksearch)
+ [RMSFlutter Customer App](https://apps.apple.com/us/app/unique-crepes-and-deli/id6751829325), [Gutenberg Ebook Reader](https://play.google.com/store/apps/details?id=com.gutenberg2.booksearch),  [Faisal Bin Asik](https://play.google.com/store/apps/details?id=com.faisalbinasik.kobita)
+
+ ## 📌 Find my developed other applications
+
+ [FIXI](https://web-rosy-chi-58.vercel.app/) (AI-powered diagnostic tool for Windows)
+ 
 
  ## 🚀 Featured Projects
 
